@@ -1,3 +1,4 @@
 # learning-aobut-git
-This is my first git repositry.<br>
+
+This is my first git repository.<br>
 Author:- <b>Aurangzaib</b>
